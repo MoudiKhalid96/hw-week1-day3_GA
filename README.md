@@ -27,7 +27,7 @@ A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a ne
 - Build a website from a [design file](starter_code/design_file.txt)
 - Integrate advanced CSS properties
 - Use HTML5 structural elements
-- Use the Box Model to style element borders and structure your page
+
 
 <br>
 
@@ -48,8 +48,6 @@ A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a ne
 
 - Starter code can be found inside of the [starter_code](starter_code) folder for this assignment.
 - Relaxr's [design file](starter_code/design_file)
-- [Box Model explanation from Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/box_model)
-- [Box Model Breakdown](http://learn.shayhowe.com/html-css/opening-the-box-model/)
 - [CSS Tricks difference between IDs and Classes](https://css-tricks.com/the-difference-between-id-and-class/)
 - [How to center elements in CSS](https://css-tricks.com/centering-css-complete-guide/)
 <br>
